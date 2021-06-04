@@ -1,0 +1,15 @@
+.detailed-car-image {
+    width: 300px;
+}
+.phone-block {
+    height: 36px;
+}
+.pointer {
+    cursor: pointer;
+}
+.mar-right {
+    margin-right: 15px;
+}
+.modal {
+    display: block;
+}
